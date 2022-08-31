@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankCRUDusingdapperwebapi", "BankCRUDusingdapperwebapi\BankCRUDusingdapperwebapi.csproj", "{8E8777E3-9B6E-4C17-970E-C48D468660CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8777E3-9B6E-4C17-970E-C48D468660CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8777E3-9B6E-4C17-970E-C48D468660CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8777E3-9B6E-4C17-970E-C48D468660CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8777E3-9B6E-4C17-970E-C48D468660CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06FB97E-EC5D-451E-A886-0EC6D3D5E30B}
+	EndGlobalSection
+EndGlobal
